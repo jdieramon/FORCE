@@ -23,6 +23,17 @@ Our ability to feed the world with innovative products depends on new breeding m
 This will be achieved by adopting an integrative approach that combines state-of-the-art technologies in next-generation sequencing, computational plant biology and diverse genetic resources exhibiting a wide range of phenotypic diversity for flowering time. This will allow us the construction of high- density integrated physical and genetic linkage maps, and eventually the assessment of colocalization between flowering time loci/QTL and flowering time genes. Results will be an important resource for geneticists currently investigating legume phenology around the globe. Moreover, the project could have useful applications in agriculture.
 
 
+### Call 
+H2020-MSCA-IF-2018  
+MSCA-IF-EF-RI - RI – Reintegration panel  
+Funded by [European Comission](https://cordis.europa.eu/project/id/844431)  
+
+
+![Image](src)
+
+
+
+
 ```markdown
 Syntax highlighted code block
 
@@ -41,12 +52,11 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jdieramon/FORCE/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+### Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [website](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
