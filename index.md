@@ -1,4 +1,4 @@
-## Summary
+## Description
 
 Flowering time involves the transition from vegetative growth to the flowering state and it
 refers to the number of days from sowing to the appearance of the first fully opened flower.
@@ -9,6 +9,8 @@ roughly 45 years ago , studies on the genetic control of flowering time have app
 within the 21st century. Although classical genetic analyses have provided a wealth of
 valuable information, the molecular identities of genes underlying the major flowering time
 locus remains mostly elusive.
+
+[Read more](http://www.uco.es/internacional/proyectosinternacionales/wp-content/uploads/2020/10/FORCE-ENG.pdf)
 
 
 ### Objective
@@ -31,31 +33,6 @@ Funded by [European Comission](https://cordis.europa.eu/project/id/844431)
 
 ![](img/IMG_0053.jpg)
 
-
-
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jdieramon/FORCE/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Contact
 
