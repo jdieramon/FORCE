@@ -1,6 +1,15 @@
-## Welcome to GitHub Pages
+## Summary
 
-You can use the [editor on GitHub](https://github.com/jdieramon/FORCE/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Flowering time involves the transition from vegetative growth to the flowering state and it
+refers to the number of days from sowing to the appearance of the first fully opened flower.
+Flowering time is the major domestication trait defining the adaptation of chickpea to
+different agro-climatic conditions, and therefore is a major determinant of its productivity.
+Despite early flowering time being suggested as a means to increase chickpea adaptability
+roughly 45 years ago , studies on the genetic control of flowering time have appeared only
+within the 21st century. Although classical genetic analyses have provided a wealth of
+valuable information, the molecular identities of genes underlying the major flowering time
+locus remains mostly elusive.
+
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
