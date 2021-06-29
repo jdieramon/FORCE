@@ -29,7 +29,7 @@ MSCA-IF-EF-RI - RI – Reintegration panel
 Funded by [European Comission](https://cordis.europa.eu/project/id/844431)  
 
 
-![Image](src)
+![](img/IMG_0053.jpg)
 
 
 
@@ -59,4 +59,4 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 
 ### Contact
 
-Having trouble with Pages? Check out our [website](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with this site ? Check out our [website](https://jdieramon.github.io/) and we’ll help you sort it out.
